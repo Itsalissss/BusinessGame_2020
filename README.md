@@ -6,3 +6,5 @@ The scope is to simulate the management of a company and its strategy in a ficti
 
 Detailed instructions can be found in file "Instructions.pdf". During the project, we had to provide two reports: "1.6_DiGrandi_REL1.pdf" and "1.6_DiGrandi_REL2.pdf".
 The first one defines our strategy before the game starts, after an analysis of the current market and the previous management of the company, while the latter provides results and figures at the end of the game.
+
+Moreover, the file "ObladiEBITda.xlsx" provides the Excel sheet we used during the game to support our decisions.
